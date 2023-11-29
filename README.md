@@ -1,0 +1,4 @@
+# PM2.5_prediction_using_ANN
+1. Conducted an in-depth analysis of spatial(location.csv) and temporal(sensor.csv) data for PM2.5 prediction using an Artificial Neural Network (ANN). The analysis involved identifying and extracting essential features for both analysis and prediction purposes.
+2. Performed data manipulation techniques such as dataframe melting, pandas encoding, and standard scaling on a dataset consisting of 46 features and 7260 values. These techniques ensured that the data was properly formatted and prepared for subsequent analysis and modeling.
+3. Evaluated the performance of the ANN model using various metrics. The evaluation results indicated a loss of approximately 17%, an r2 score of 62%, and a correlation score of 87%. These scores provide insights into the model's predictive accuracy and demonstrate its ability to capture patterns and relationships within the PM2.5 data.
